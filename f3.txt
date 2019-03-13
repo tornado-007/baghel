@@ -1,0 +1,4 @@
+-rw-rw-r-- 1 ahmcpu2383 ahmcpu2383      17147 Feb  4 15:55 f1.txt
+-rw-rw-r-- 1 ahmcpu2383 ahmcpu2383          0 Feb  4 16:00 f2.txt
+-rw-rw-r-- 1 ahmcpu2383 ahmcpu2383      29274 Feb  4 15:22 f3.txt
+-rw-rw-r-- 1 ahmcpu2383 ahmcpu2383         40 Feb  4 15:49 txt.x
