@@ -1,0 +1,13 @@
+ /$/unix
+ /home/$/learn
+ $unix
+ $unix
+ 
+ 
+ /.$/ed
+ transformations
+ (such
+ is
+ in
+ editors.
+ 
